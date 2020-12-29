@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/juliana/dev/Alura/projetos/flutter-estados/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml",
+            "outputFile": "/home/erick/Desktop/alura/flutter/state_management/flutter-gerenciamento-de-estado/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml",
             "map": [
                 {
-                    "source": "/home/juliana/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/418e0008eed2cd7143f3ee62a6996215/res/values-de/values-de.xml",
+                    "source": "/home/erick/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/1b1383541265803f6ce81632038ad613/res/values-de/values-de.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -1,16 +1,13 @@
-# bytebank
+## Single source of truth
 
-A new Flutter project.
+```https://medium.com/flutter-community/refactoring-a-flutter-project-a-story-about-progression-and-decisions-d843c36001fb```
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+###Provider
+```prove valores em partes do codigo, apartir de um notificador e singleton. sendo preciso chamar somente o consumer com função que retorna o valor.```
+###Consumer
+```responsavel por consumir os dados do provider notificador.```
+###Selector
+`consome parte da classe observada, quando um pequeno estado da classe muda.` 
+```https://pub.dev/documentation/provider/latest/provider/Selector-class.html```
+####more about
+> https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple
