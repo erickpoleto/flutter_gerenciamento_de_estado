@@ -1,4 +1,0 @@
-#Tue Dec 29 12:58:13 BRT 2020
-base.0=/home/erick/Desktop/alura/flutter/state_management/flutter-gerenciamento-de-estado/build/app/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
